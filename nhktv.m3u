@@ -76,3 +76,5 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/a1e0ad3f_1_1900544/chunklist.m3u8
 #EXTINF:-1 tvg-name="Channel NewsAsia" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/channelnewsasia.png",Channel NewsAsia
 #http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_4_av-b.m3u8
+#EXTINF:-1,tvg-name="Arise Africa" tvg-id="" tvg-logo="https://talkmediaafrica.com/wp-content/uploads/2015/01/AriseLG-1280x720.png" group-title="Africa",Arise News
+https://embeddedplayer.visionip.tv/index.php?module=playlist&type=m3u8_mb&b2b=1&broadcastid=15718&protocolid=5&datarateid=3&user=AriseNew-VideoJS&www=www.arise.tv
