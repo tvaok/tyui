@@ -80,3 +80,11 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 https://embeddedplayer.visionip.tv/index.php?module=playlist&type=m3u8_mb&b2b=1&broadcastid=15718&protocolid=5&datarateid=3&user=AriseNew-VideoJS&www=www.arise.tv
 #EXTINF:-1 tvg-name="Arirang TV" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/channelnewsasia.png",Arirang TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="multimedios" tvg-id="" group-title="International;Nachrichten", tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png"group-title="ESTABLES",Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-name="promar" tvg-id="" group-title="International;Nachrichten", tvg-logo="http://www.lorini.net/streaming/clientes/promartv.jpg" ,PROMAR
+http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-name="Comet" tvg-id="" group-title="International;Nachrichten", tvg-logo="https://i.imgur.com/urX82hM.png"" ,comet
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
