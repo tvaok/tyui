@@ -91,3 +91,37 @@ http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-name="Charge" tvg-id="" group-title="International;Nachrichten", tvg-logo="https://i.imgur.com/urX82hM.png"" ,CHARGE
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/rXrSsiI.jpg" group-title="Religious",CGNTV Japan
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/8AM9fC8.jpg" group-title="Shop;Undefined",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://img.japanet.co.jp/shopping/img/senqua/header/logo.gif" group-title="Shop",Japanet Channel DX
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="Undefined",MX Live (Webcam)
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="News",NHK Chinese Vision,NHK 华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan,NHK World Japan live
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP;US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sport;Undefined",New Japan Pro Wrestling World,NJPW World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="News",NTV News24
+http://www.news24.jp/livestream/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="News",NTV News24
+https://www.news24.jp/livestream/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="Shop",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Shop",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",Tokyo MX1
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="Undefined",Tokyo MX1
+https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",Tokyo MX2
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="Undefined",Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="News",Weather News
