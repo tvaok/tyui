@@ -1,6 +1,7 @@
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Japan",NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
+#EXTINF:-1 tvg-id="WLNYTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ubsNr5F.jpg" group-title="United States",CBSN 2 New York NY (WLNY-TV) (720p)
+http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 #EXTINF:-1 tvg-id="PBSAmerica.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="General",PBS America (720p)
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KLCSDT3.us" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/22.2-Create.png" group-title="Education",PBS Create Los Angeles CA (KLCS-DT3) (720p) [Geo-blocked]
@@ -12,7 +13,7 @@ https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBSKidsEST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Eastern/Central (1080p)
-https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 
 #EXTINF:-1 tvg-id="KUONTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/pbs-digital-studios-bento-live-pbs/icons/1fcc0dd46e_PBS_favicon.png" group-title="Education;Local",PBS Lincoln NE (KUON) (1080p) [Geo-blocked]
 https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
@@ -45,8 +46,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYWTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OfGcsUO.png" group-title="Local",FOX 5 New York NY (WNYW) (720p)
 #https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
 
-#EXTINF:-1 tvg-id="WLNYTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ubsNr5F.jpg" group-title="United States",CBSN 2 New York NY (WLNY-TV) (720p)
-http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
+
 
 #EXTINF:-1 tvg-id="MST3K.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1xJJB7C.jpg" group-title="Entertainment",MST3K (1080p)
 https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8
@@ -56,10 +56,12 @@ https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3
 https://mst3k-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShoutFactoryTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ShoutFactoryTV_300x300.png?raw=true" group-title="United States",Shout! Factory TV (1080p)
-http://shoutfactory-redbox.amagi.tv/playlist.m3u8
-
+#http://shoutfactory-redbox.amagi.tv/playlist.m3u8
+https://amg00163-shoutfactory-shoutfactorytv-zype-psuhs.amagi.tv/playlist/amg00163-shoutfactory-shoutfactorytv-zype/cb573d1e736c648a84cb3967cef84682ad7b3dcb0e6c886470af4a9765d9775884b7e1bfb415aa204cd717d80e0c695a4d258d13df7c08d9de63b826612f4c2b859ab27ad9991309b3c8797368e62c4119e10f14d53b53309dbc1e59d339ec21545eb05b3a057fdcec0cf86b5b948502962a2fdaaa8c636a7b085dc95e3f5991648bc730a688ea4693d47f5aa84a1bbec6179dc47fffd1900edd61ae4cc36aecb26d5f1e22a8bbef3ceb13ea742855276f908378e9a4350f1d430b4bfa403d431b5bf5e1e09690df5f25313ed6c6b1d74bfa048eb02a936b7ddc6afd1ed563d23ef840cf803f84a4b44fa7781d84bd604379285cb8b85b75a6de2c8b83e4d861759af75b5642de52e12d3933aaeba132a9cc0f9fba2f84fb3c536880d97dcacce9c3c3b9835f8465d29fa2a76b1615231614dc0cf2c3238b609d5fadcd182e131f14fcca0595d6881e166b5d838651cc5c4ae88ec5d3ad6951af4c1254fd78a3186f0be13b7675e921f8e0534a80340f833a25bb1575ac4bf2ad34b7c0ffe01530a1d1d7489d3ebb1556d1804e26a4e3e98135852848a74d/14/1920x1080_5058864/index.m3u8
+#EXTINF:-1 tvg-id="ShoutCult" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ShoutFactoryTV_300x300.png?raw=true" group-title="United States",Shout! Factory TV (1080p)
+https://837dd61e3fed471fbbe33391a57920d4.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ShoutCult/9c3eed47-78ce-402b-a0b8-d60e2768cec4/3.m3u8
 #EXTINF:-1 tvg-id="ClassicMoviesChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pltVS6t.png" group-title="Classic",Classic Movies Channel (480p)
-https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
+#https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ClassicRerunsTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://classicreruns.com/wp-content/uploads/2021/01/CRTV-1024x1024-logo-nobkg-e1629529582672.png" group-title="Entertainment",Classic Reruns TV (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
@@ -68,10 +70,10 @@ https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DarkMatterTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DarkMatterTV_218x218.png?raw=true" group-title="Series",Dark Matter TV (720p)
-https://dmtv-plex.amagi.tv/playlist.m3u8
+#https://dmtv-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dust.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/byIRP2QHx669BQ0BnWqbiB_bje1PkYTWmq9a-AC5PSBjG5CIwryhftF7W5Oj1cwSnto" group-title="Movies",Dust (1080p)
-https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
+#https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 
 
 
@@ -108,9 +110,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078fae
 https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
 
 #EXTINF:-1 tvg-id="STIRRCinehouse.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/soWUYAlbr7JPirYYf-65YApRsk0X_OXlGZ36_0A4KnmmWf7n7PwvjxdBK6iK5LrqkCJD" group-title="Entertainment",STIRR Cinehouse (576p)
-https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
+#https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
 #EXTINF:-1 tvg-id="STIRRCineLife.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="Lifestyle",STIRR CineLife (1080p)
-https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+#https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 #EXTINF:-1 tvg-id="STIRRCity.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Lifestyle",STIRR City (720p)
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 
@@ -128,7 +130,7 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 
 
 #EXTINF:-1 tvg-id="AdultSwim.ca" tvg-country="US;CA" tvg-language="English" tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="United States",Adult Swim (360p) [Geo-blocked]
-http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
+#http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
 #EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="United States",Adult Swim Aqua Teen Hunger Force (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 #EXTINF:-1 tvg-id="AdultSwimBlackJesus.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Black_Jesus_title_card.png" group-title="United States",Adult Swim Black Jesus (1080p) [Geo-blocked]
@@ -138,7 +140,7 @@ https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
 #EXTINF:-1 tvg-id="AdultSwimDreamCorpLLC.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jOTChgo.jpg" group-title="United States",Adult Swim Dream Corp LLC (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
 #EXTINF:-1 tvg-id="AdultSwimFishcam.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="United States",Adult Swim Fishcam (1080p)
-https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
+#https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
 #EXTINF:-1 tvg-id="AdultSwimInfomercials.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="United States",Adult Swim Infomercials (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
 #EXTINF:-1 tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VsAKoN6.jpg" group-title="United States",Adult Swim Last Stream On The Left (1080p) [Geo-blocked]
@@ -165,7 +167,7 @@ https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Tim and Eric (1080p) [Geo-blocked]
 http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 #EXTINF:-1 tvg-id="AdultSwimWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="Entertainment",Adult Swim West (720p)
-https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+#https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Williams Stream (1080p) [Geo-blocked]
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 
